@@ -1,0 +1,12 @@
+.center {margin:25px; width:17%}
+#myDiv {margin:100px; text-align:center;}
+.grid-container {
+	display: grid; 
+	grid-template-columns: auto auto;
+	grid-row-gap: 20px
+}
+.grid-item {
+	text-align:left;
+}
+
+
